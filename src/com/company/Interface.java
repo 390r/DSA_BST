@@ -2,6 +2,7 @@
 
 public interface Interface {
 
+
     /**
      *  Full method's descriptions in MyAVL class {@link MyBST}.
      */
